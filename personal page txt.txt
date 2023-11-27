@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    
+	
+	
+	<head>
+	   <title> Kyoto </title>
+	
+	
+    <style>
+        body {
+            background-image: url( "https://i0.wp.com/backgroundabstract.com/wp-content/uploads/edd/2022/02/5594016-e1656071131636.jpg"); 
+            background-repeat: no-repeat;
+            background-size: cover; 
+       ; 
+        }
+    </style>
+
+	</head>
+	<body>
+	
+	<center>
+	<style>
+        .profile-image {
+            border: 2px solid #000; /* Replace #000 with your desired border color */
+            border-radius: 50%; /* Apply a circular border by setting the border-radius to 50% */
+            width: 150px; /* Adjust the width of the profile image as per your preference */
+        }
+    </style>
+	</
+    <img class="profile-image" src="DP.png" alt="Profile Image">
+
+	<h1> <u> Pawan Kumar Thapa<br/>
+M23W7295</u><h1>
+
+<fieldset >
+<legend> <b>Personal Information </b> </legend>
+<p>An ambitious and hardworking student currently pursuing Masters course from <u> Kyoto College of graduate studies for informatics </u>. 
+
+
+</p>
+
+</fieldset>
+
+</center>
+
